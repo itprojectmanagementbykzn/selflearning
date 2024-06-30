@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "mmToTh_jwtPrivateKey",
+    "db":"database_path"
+}
